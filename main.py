@@ -43,7 +43,7 @@ def run_program():
     api_get = request_new_data()
     use_full_data_list = get_data(api_get)
     data_string = formatted_data(use_full_data_list)
-    with open('name_day', 'a') as name_file:
+    with open('name_day.sh', 'a') as name_file:
         name_file.write(data_string)
 
 
