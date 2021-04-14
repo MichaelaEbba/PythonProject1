@@ -8,10 +8,6 @@ Som jag nämnde i min inlämningsuppgift 2 så finns det några stycken, tänkte
 - firewalld, är en zon baserad brandvägg, där varje zon kan justeras så dom kan acceptera och neka vissa tjänster och porter, zoner kan också accosieras med ett eller flera nätverk. 
 - libvirtd, är en öppen API, vilket betyder om jag har förstått det rätt att hantering och deamon verktyg för plattforms virtualisering, som tex Xen, QEMU och KVM för några. 
 
-## Arbeta i kommandotolken
-Här behöver jag öva, så skall ta någon dag här och bara sätta mig in i det, så jag kan svara på dom frågorna du kommer ställa mig. 
-Vad är kommandotolken? Hur skapar man mappar? Hur rör man sig runt i mappar? Hur skapar man en fil? 
 
-Hur arbetar man i Linux relevant? Vad är relevant?
-importera paket, alltså import ..... typ
+
 
